@@ -1,5 +1,6 @@
 {
     "name": "AnimeTask",
+    "rootNamespace": "",
     "references": [
         "GUID:f51ebe6a0ceec4240a699833d6309b23",
         "GUID:560b04d1a97f54a4e82edc0cbbb69285"
@@ -13,9 +14,9 @@
     "defineConstraints": [],
     "versionDefines": [
         {
-            "name": "com.neuecc.unirx",
+            "name": "com.cysharp.r3",
             "expression": "",
-            "define": "ANIMETASK_UNIRX_SUPPORT"
+            "define": "ANIMETASK_R3_SUPPORT"
         },
         {
             "name": "com.unity.ugui",
