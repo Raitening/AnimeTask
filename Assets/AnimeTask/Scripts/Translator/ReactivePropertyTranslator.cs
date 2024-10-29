@@ -1,8 +1,8 @@
-#if ANIMETASK_UNIRX_SUPPORT
+#if ANIMETASK_R3_SUPPORT
 using System.Threading;
 using Cysharp.Threading.Tasks;
 using JetBrains.Annotations;
-using UniRx;
+using R3;
 
 namespace AnimeTask
 {

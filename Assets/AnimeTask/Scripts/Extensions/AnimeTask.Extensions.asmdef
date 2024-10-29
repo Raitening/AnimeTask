@@ -1,5 +1,6 @@
 {
     "name": "AnimeTask.Extensions",
+    "rootNamespace": "",
     "references": [
         "GUID:f51ebe6a0ceec4240a699833d6309b23",
         "GUID:1a4cffb770ce347a39cea41a326324ec",
@@ -14,9 +15,9 @@
     "defineConstraints": [],
     "versionDefines": [
         {
-            "name": "com.neuecc.unirx",
+            "name": "com.cysharp.r3",
             "expression": "",
-            "define": "ANIMETASK_UNIRX_SUPPORT"
+            "define": "ANIMETASK_R3_SUPPORT"
         }
     ],
     "noEngineReferences": false
